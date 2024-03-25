@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html> 
+<head>
+    <title>Seletores CSS</title>
+    <link href="StyleNew.css" rel="stylesheet"/>
+</head>
+<body>
+    <h1 class="destaque">Título em Destaque</h1>
+    <p>Lorem Ispum de teste <a href="http://www.google.com">Clique-me!</a></p>
+    <p>Lorem <strong>Ispum</strong> de teste 2</p>
+    <p class="destaque">Paragrafo terceiro</p>
+    <div>
+        Texto de exemplo, <strong class="destaque">destaque do texto</strong>
+    </div>
+</body>
+</html>
